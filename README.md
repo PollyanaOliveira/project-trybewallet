@@ -145,7 +145,6 @@ A página consumiu os dados da API do _awesomeapi API de Cotações_ para realiz
 #### 10. Crie um botão para deletar uma despesa da tabela contendo as seguintes características:
 
 
-   ![image](btnExcluir.gif)
 
   * O botão deve estar na linha da tabela e deve possuir `data-testid="delete-btn"`.
 
@@ -153,7 +152,6 @@ A página consumiu os dados da API do _awesomeapi API de Cotações_ para realiz
 
 #### 11. Crie um botão para editar uma despesa da tabela contendo as seguintes características:
 
-   ![image](btnEditar.gif)
 
   * O botão deve estar dentro da linha da tabela e deve possuir `data-testid="edit-btn"`
 
