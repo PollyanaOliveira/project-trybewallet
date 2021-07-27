@@ -22,6 +22,7 @@
 
 ## Documentação da API de Cotações de Moedas
 
+
 A página consumiu os dados da API do _awesomeapi API de Cotações_ para realizar a busca de câmbio de moedas. Para realizar essas buscas, foi utilizado o seguinte _endpoint_:
 
 - https://economia.awesomeapi.com.br/json/all
